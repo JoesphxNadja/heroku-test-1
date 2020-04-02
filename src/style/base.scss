@@ -1,0 +1,17 @@
+body {
+    height: 100vw;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Megrim', cursive;
+    color: whitesmoke;
+    background-image: linear-gradient(to bottom, black, rgb(80, 80, 80));
+}
+
+.app > h1 {
+    margin: 0px;
+    color: rgb(2, 192, 2);
+    background-image: linear-gradient(to right, black, rgb(38, 160, 38));
+    padding-top: 25px;
+    padding-left: 18px;
+}
